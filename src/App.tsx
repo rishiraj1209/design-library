@@ -24,6 +24,12 @@ const cards = [
     heading: "Dashboards",
     description:
       "Clean and data-focused dashboard UI inspirations built for analytics and admin panels."
+  },
+  {
+    link:"https://motion-interactions.vercel.app/",
+    image:"https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
+    heading:"Motion-Interactions",
+    description:"Explore smooth animations, micro-interactions, page transitions, and delightful motion design patterns for modern web experiences."
   }
 ]
 
